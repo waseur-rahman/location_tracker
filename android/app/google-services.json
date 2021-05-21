@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "92027405710",
+    "project_id": "roar-wiz",
+    "storage_bucket": "roar-wiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92027405710:android:77a24b3f7c3b2e1795d0df",
+        "android_client_info": {
+          "package_name": "com.example.call_wiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92027405710-r5lvpei2ut9nvsa3cdaie6g2u8fmtvrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIOGl1u0T775ovTkSQT6Mj78HCqM9Be_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92027405710-r5lvpei2ut9nvsa3cdaie6g2u8fmtvrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92027405710:android:f556d21bdf3b7c2795d0df",
+        "android_client_info": {
+          "package_name": "com.example.location_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92027405710-r5lvpei2ut9nvsa3cdaie6g2u8fmtvrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIOGl1u0T775ovTkSQT6Mj78HCqM9Be_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92027405710-r5lvpei2ut9nvsa3cdaie6g2u8fmtvrp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
